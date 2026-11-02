@@ -318,7 +318,7 @@ export const blogPosts: BlogPost[] = [
       <br/>
       <p>O CondoManage ainda não é um produto pronto pra vender pra terceiros — falta ativar credenciais de produção em alguns serviços externos, adicionar camadas extras de segurança, e construir um fluxo de onboarding self-service. Mas como exercício de aprendizado, ele cumpriu (e continua cumprindo) exatamente o que eu queria: entender, na prática, o que realmente significa integrar um sistema de ponta a ponta, e aprender a desconfiar do próprio código até prová-lo certo com um teste de verdade, não só "parece que funciona".</p>
       <br/>
-      <p>Quem quiser ver o sistema rodando ao vivo, montei uma <a href="https://sistemacondominio-nine.vercel.app/apresentacao" target="_blank" rel="noopener noreferrer">página de apresentação completa</a>, e o código-fonte está aberto no <a href="https://github.com/ACrush14/SistemaCondominio" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
+      <p>Quem quiser ver o sistema rodando ao vivo, montei uma <a href="https://sistemacondominio-nine.vercel.app/apresentacao" target="_blank" rel="noopener noreferrer">página de apresentação completa</a>, e o código-fonte está aberto no <a href="https://github.com/andersondelimadev/SistemaCondominio" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
     `,
   },
   {
@@ -348,7 +348,7 @@ export const blogPosts: BlogPost[] = [
       <br/>
       <p>O Smash Compendium é uma prova de como dá pra aplicar boas práticas de desenvolvimento — desde a modelagem de dados até a experiência do usuário — em projetos pessoais, sem precisar de um cliente ou de uma empresa por trás pra justificar o cuidado técnico. Convido a comunidade de desenvolvedores e os entusiastas de games a explorarem o acervo. E fica a pergunta que eu mesmo ainda estou tentando responder: como podemos melhorar ainda mais a integridade desses dados? Fico no aguardo de feedbacks técnicos.</p>
       <br/>
-      <p>O projeto está no ar em <a href="https://smashcompendium.com/" target="_blank" rel="noopener noreferrer">smashcompendium.com</a>, e o código é aberto no <a href="https://github.com/ACrush14/smash-compendium" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
+      <p>O projeto está no ar em <a href="https://smashcompendium.com/" target="_blank" rel="noopener noreferrer">smashcompendium.com</a>, e o código é aberto no <a href="https://github.com/andersondelimadev/smash-compendium" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
     `,
   },
   {
@@ -362,7 +362,7 @@ export const blogPosts: BlogPost[] = [
     content: `
       <p>Passei cinco anos da minha vida na Arquitetura e Urbanismo. Entrei em 2017 na UNI7 cheio de vontade de desenhar espaços, resolver problemas urbanos, entender como as pessoas se relacionam com o que é construído ao redor delas. Terminei em 2022 com o diploma na mão e um problema que ninguém tinha me avisado antes de entrar no curso: o mercado de arquitetura simplesmente não tinha vagas suficientes pra absorver todo mundo que se formava comigo.</p>
       <br/>
-      <p>Não foi por falta de tentativa. Trabalhei com modelagem 3D e renderização arquitetônica — primeiro captando meus próprios clientes com o Anderson Crush Studio, depois em regime integral numa empresa remota, a Rendereasy 3D. Aprendi Unreal Engine 5, 3ds Max, Corona Renderer, entreguei projeto atrás de projeto. Só que o mercado de ArchViz pra clientes remotos é instável, mal remunerado na maior parte das vezes, e depende de um fluxo de encomendas que nem sempre existe. Em algum momento percebi que estava otimizando minha rotina pra sobreviver ao mês, não pra crescer numa carreira.</p>
+      <p>Não foi por falta de tentativa. Trabalhei com modelagem 3D e renderização arquitetônica — primeiro captando meus próprios clientes com o Anderson de Lima Studio, depois em regime integral numa empresa remota, a Rendereasy 3D. Aprendi Unreal Engine 5, 3ds Max, Corona Renderer, entreguei projeto atrás de projeto. Só que o mercado de ArchViz pra clientes remotos é instável, mal remunerado na maior parte das vezes, e depende de um fluxo de encomendas que nem sempre existe. Em algum momento percebi que estava otimizando minha rotina pra sobreviver ao mês, não pra crescer numa carreira.</p>
       <br/>
       <h2>A decisão de recomeçar</h2>
       <br/>

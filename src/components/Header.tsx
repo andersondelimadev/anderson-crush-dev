@@ -7,7 +7,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import ThemeToggle from './ThemeToggle';
 import { useLanguage } from '@/contexts/LanguageContext';
 
-const GITHUB_URL = 'https://github.com/ACrush14';
+const GITHUB_URL = 'https://github.com/andersondelimadev';
 const LINKEDIN_URL = 'https://www.linkedin.com/in/andersondelimacomputacao/';
 const INSTAGRAM_URL = 'https://www.instagram.com/andersoncrushdev/';
 

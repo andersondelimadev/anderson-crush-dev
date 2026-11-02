@@ -216,7 +216,7 @@ export default function About() {
             <RevealOnScroll delay={0.4}>
               <div className="flex flex-col sm:flex-row justify-center items-center gap-4 w-full">
                 <a
-                  href="/Curriculo_Anderson_Crush.pdf"
+                  href="/Curriculo_Anderson_de_Lima.pdf"
                   download
                   className="w-full sm:w-auto min-w-[240px] flex items-center justify-center gap-3 bg-[#22C55E] text-black font-mono font-bold py-4 px-8 hover:bg-green-400 transition-all hover:scale-[1.02] shadow-[0_0_20px_rgba(34,197,94,0.3)] text-center"
                 >

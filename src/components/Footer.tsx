@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin, FaArrowUp, FaInstagram } from 'react-icons/fa';
 import ParticlesBackground from './ParticlesBackground';
 import RevealOnScroll from './RevealOnScroll';
 
-const GITHUB_URL = 'https://github.com/ACrush14';
+const GITHUB_URL = 'https://github.com/andersondelimadev';
 const LINKEDIN_URL = 'https://www.linkedin.com/in/andersondelimacomputacao/';
 const INSTAGRAM_URL = 'https://www.instagram.com/andersoncrushdev/';
 

@@ -59,7 +59,7 @@ export default function Contact() {
               </p>
               <div className="flex flex-wrap justify-center gap-3">
                 <a
-                  href="/Curriculo_Anderson_Crush.pdf"
+                  href="/Curriculo_Anderson_de_Lima.pdf"
                   download
                   className="inline-flex items-center gap-2 border border-gray-700 text-gray-200 font-mono text-sm py-2.5 px-5 hover:border-[#22C55E] hover:text-[#22C55E] transition-all"
                 >

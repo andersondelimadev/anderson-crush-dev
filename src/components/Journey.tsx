@@ -55,7 +55,7 @@ const journeyDataMap = {
       icon: <FaBriefcase />,
       year: '2022',
       title: 'Artista 3D',
-      company: 'Anderson Crush Studio',
+      company: 'Anderson de Lima Studio',
       description: 'Captação de clientes, modelagem 3D, renderização e pós-produção. Ferramentas: Unreal Engine 5, 3ds Max, Corona Renderer e Photoshop.',
     },
     {
@@ -132,8 +132,8 @@ const journeyDataMap = {
       icon: <FaLaptopCode />,
       year: '2026',
       title: 'Desenvolvedor',
-      company: 'Anderson Crush Dev',
-      description: 'Desenvolvimento contínuo do próprio portfólio e marca pessoal, Anderson Crush Dev.',
+      company: 'Anderson de Lima',
+      description: 'Desenvolvimento contínuo do próprio portfólio e marca pessoal, Anderson de Lima.',
     },
     {
       icon: <FaCertificate />,
@@ -204,7 +204,7 @@ const journeyDataMap = {
       icon: <FaBriefcase />,
       year: '2022',
       title: '3D Artist',
-      company: 'Anderson Crush Studio',
+      company: 'Anderson de Lima Studio',
       description: 'Client acquisition, 3D modeling, rendering and post-production. Tools: Unreal Engine 5, 3ds Max, Corona Renderer and Photoshop.',
     },
     {
@@ -281,8 +281,8 @@ const journeyDataMap = {
       icon: <FaLaptopCode />,
       year: '2026',
       title: 'Developer',
-      company: 'Anderson Crush Dev',
-      description: 'Ongoing development of my own portfolio and personal brand, Anderson Crush Dev.',
+      company: 'Anderson de Lima',
+      description: 'Ongoing development of my own portfolio and personal brand, Anderson de Lima.',
     },
     {
       icon: <FaCertificate />,
